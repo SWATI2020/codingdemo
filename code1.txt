@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<style>
+.Title { color: blue;}
+#book_summary { color: red;}
+
+</style>	
+</head>
+
+<body>
+<h1 id="book_summary"> Hello World! </h1>
+<p class="Title"> This is a paragraph. </p>
+<p class="Title"> This is second paragraph.</p>
+
+</body>
